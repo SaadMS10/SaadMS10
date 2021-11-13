@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaadMS10
-- 👀 I’m interested in Full Stack Development
+- 👀 Mern Stack Developer
 - 📬 How to reach me: [Linkedin](https://www.linkedin.com/in/muhammad-saad-ms10/)
 <!---
 SaadMS10/SaadMS10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
