@@ -32,11 +32,6 @@ Full-stack software engineer with 4+ years of experience building web apps and b
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/SaadMS10"><img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SaadMS10&show_icons=true&count_private=true&hide_border=true" /></a>
-  <a href="https://github.com/SaadMS10"><img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadMS10&layout=compact&hide_border=true" /></a>
-</p>
-
-<p align="center">
   <a href="https://git.io/streak-stats"><img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=SaadMS10&hide_border=true" /></a>
 </p>
 
